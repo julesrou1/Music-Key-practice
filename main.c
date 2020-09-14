@@ -23,6 +23,7 @@ int main(void){
 			scanf("%d",&type);
 			if(type==4){Back=1;}
 			sequence(Notes,type);
+			
 			//sequence(Notes,2);
 		}
 	}
